@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DeviceConnect.qml</file>
+        <file>Settings.qml</file>
+        <file>Advance.qml</file>
+        <file>MyToast.qml</file>
+        <file>Diagnosis.qml</file>
+        <file>Status.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/DeviceConnect1.png</file>
+        <file>images/DeviceConnect2.png</file>
+        <file>images/Diagnosis1.png</file>
+        <file>images/Diagnosis2.png</file>
+        <file>images/Settings1.png</file>
+        <file>images/Settings2.png</file>
+        <file>images/ss-palm2015.png</file>
+        <file>images/Status1.png</file>
+        <file>images/Status2.png</file>
+        <file>images/Advance1.png</file>
+        <file>images/Advance2.png</file>
+        <file>images/background.png</file>
+    </qresource>
+</RCC>
